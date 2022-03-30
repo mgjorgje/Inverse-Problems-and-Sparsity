@@ -1,0 +1,2 @@
+# Inverse-Problems-and-Sparsity
+This is a presentation on the article "Sketching Datasets for Large-Scale Learning (long version)" by authors Rémi Gribonval, Antoine Chatalic, Nicolas Keriven, Vincent Schellekens, Laurent Jacques, Philip Schniter ( https://doi.org/10.48550/arXiv.2008.01839) which I did as part of the course "Inverse Problems and Sparsity" in the second semester of 2022 in the Advanced Mathematics M2 program at ENS de Lyon. The project was done in collaboration with Leo Davy and Alexandr Pak.
